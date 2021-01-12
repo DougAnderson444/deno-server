@@ -1,5 +1,5 @@
 {
     "scripts": {
-        "start": "deno run --allow-net webserver.ts"
+        "start": "deno run --allow-net=localhost,0.0.0.0 webserver.ts"
     }
 }
