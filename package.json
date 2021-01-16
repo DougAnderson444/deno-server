@@ -1,5 +1,7 @@
 {
     "scripts": {
-        "start": "deno run --allow-net=localhost,0.0.0.0 webserver.ts"
+        "start:renderServer:js": "deno run --allow-net=localhost,0.0.0.0 renderServer.js",
+        "start:httpserver": "deno run --allow-net=localhost,0.0.0.0 httpserver.ts",
+        "start:oakserver": "deno run --allow-net=localhost,0.0.0.0 oakserver.ts"
     }
 }

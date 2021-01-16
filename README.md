@@ -14,6 +14,8 @@ TODO: Let's see what this server can do:
 
 ### Some refs:
 
-https://deno.land/std@0.83.0/examples/chat/server.ts
-https://doc.deno.land/builtin/stable#Deno.execPath
-https://droces.github.io/Deno-Cheat-Sheet/
+- https://deno.land/std@0.83.0/examples/chat/server.ts
+
+- https://doc.deno.land/builtin/stable#Deno.execPath
+
+- https://droces.github.io/Deno-Cheat-Sheet/
